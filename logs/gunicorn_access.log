@@ -1,0 +1,4 @@
+127.0.0.1 - - [11/Apr/2025:20:21:00 +0300] "GET / HTTP/1.1" 200 2786 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [11/Apr/2025:20:21:00 +0300] "GET /static/css/styles.css HTTP/1.1" 200 0 "http://127.0.0.1:8000/" "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [11/Apr/2025:20:21:00 +0300] "GET /static/js/scripts.js HTTP/1.1" 200 0 "http://127.0.0.1:8000/" "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0"
+127.0.0.1 - - [11/Apr/2025:20:21:00 +0300] "GET /static/assets/favicon.ico HTTP/1.1" 200 0 "http://127.0.0.1:8000/" "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0"

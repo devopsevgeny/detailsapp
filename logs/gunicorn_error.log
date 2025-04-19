@@ -1,0 +1,165 @@
+[2025-04-11 20:17:12 +0300] [11680] [INFO] Starting gunicorn 23.0.0
+[2025-04-11 20:17:12 +0300] [11680] [INFO] Listening at: http://0.0.0.0:8000 (11680)
+[2025-04-11 20:17:12 +0300] [11680] [INFO] Using worker: gthread
+[2025-04-11 20:17:12 +0300] [11681] [INFO] Booting worker with pid: 11681
+[2025-04-11 20:17:12 +0300] [11682] [INFO] Booting worker with pid: 11682
+[2025-04-11 20:17:12 +0300] [11683] [INFO] Booting worker with pid: 11683
+[2025-04-11 20:17:12 +0300] [11684] [INFO] Booting worker with pid: 11684
+[2025-04-11 20:17:12 +0300] [11685] [INFO] Booting worker with pid: 11685
+[2025-04-11 20:17:12 +0300] [11686] [INFO] Booting worker with pid: 11686
+[2025-04-11 20:17:12 +0300] [11687] [INFO] Booting worker with pid: 11687
+[2025-04-11 20:17:12 +0300] [11688] [INFO] Booting worker with pid: 11688
+[2025-04-11 20:17:12 +0300] [11689] [INFO] Booting worker with pid: 11689
+[2025-04-11 20:17:12 +0300] [11690] [INFO] Booting worker with pid: 11690
+[2025-04-11 20:17:12 +0300] [11691] [INFO] Booting worker with pid: 11691
+[2025-04-11 20:17:12 +0300] [11692] [INFO] Booting worker with pid: 11692
+[2025-04-11 20:17:12 +0300] [11693] [INFO] Booting worker with pid: 11693
+[2025-04-11 20:17:13 +0300] [11694] [INFO] Booting worker with pid: 11694
+[2025-04-11 20:17:13 +0300] [11695] [INFO] Booting worker with pid: 11695
+[2025-04-11 20:17:13 +0300] [11696] [INFO] Booting worker with pid: 11696
+[2025-04-11 20:17:13 +0300] [11697] [INFO] Booting worker with pid: 11697
+[2025-04-11 20:17:13 +0300] [11698] [INFO] Booting worker with pid: 11698
+[2025-04-11 20:17:13 +0300] [11709] [INFO] Booting worker with pid: 11709
+[2025-04-11 20:17:13 +0300] [11728] [INFO] Booting worker with pid: 11728
+[2025-04-11 20:17:13 +0300] [11729] [INFO] Booting worker with pid: 11729
+[2025-04-11 20:17:13 +0300] [11730] [INFO] Booting worker with pid: 11730
+[2025-04-11 20:17:13 +0300] [11731] [INFO] Booting worker with pid: 11731
+[2025-04-11 20:17:13 +0300] [11732] [INFO] Booting worker with pid: 11732
+[2025-04-11 20:17:13 +0300] [11733] [INFO] Booting worker with pid: 11733
+[2025-04-11 20:17:38 +0300] [11680] [INFO] Handling signal: int
+[2025-04-11 20:17:38 +0300] [11730] [INFO] Worker exiting (pid: 11730)
+[2025-04-11 20:17:38 +0300] [11682] [INFO] Worker exiting (pid: 11682)
+[2025-04-11 20:17:38 +0300] [11681] [INFO] Worker exiting (pid: 11681)
+[2025-04-11 20:17:38 +0300] [11697] [INFO] Worker exiting (pid: 11697)
+[2025-04-11 20:17:38 +0300] [11684] [INFO] Worker exiting (pid: 11684)
+[2025-04-11 20:17:38 +0300] [11709] [INFO] Worker exiting (pid: 11709)
+[2025-04-11 20:17:38 +0300] [11693] [INFO] Worker exiting (pid: 11693)
+[2025-04-11 20:17:38 +0300] [11683] [INFO] Worker exiting (pid: 11683)
+[2025-04-11 20:17:38 +0300] [11685] [INFO] Worker exiting (pid: 11685)
+[2025-04-11 20:17:38 +0300] [11689] [INFO] Worker exiting (pid: 11689)
+[2025-04-11 20:17:38 +0300] [11729] [INFO] Worker exiting (pid: 11729)
+[2025-04-11 20:17:38 +0300] [11698] [INFO] Worker exiting (pid: 11698)
+[2025-04-11 20:17:38 +0300] [11691] [INFO] Worker exiting (pid: 11691)
+[2025-04-11 20:17:38 +0300] [11731] [INFO] Worker exiting (pid: 11731)
+[2025-04-11 20:17:38 +0300] [11732] [INFO] Worker exiting (pid: 11732)
+[2025-04-11 20:17:38 +0300] [11692] [INFO] Worker exiting (pid: 11692)
+[2025-04-11 20:17:38 +0300] [11690] [INFO] Worker exiting (pid: 11690)
+[2025-04-11 20:17:38 +0300] [11686] [INFO] Worker exiting (pid: 11686)
+[2025-04-11 20:17:38 +0300] [11728] [INFO] Worker exiting (pid: 11728)
+[2025-04-11 20:17:38 +0300] [11688] [INFO] Worker exiting (pid: 11688)
+[2025-04-11 20:17:38 +0300] [11687] [INFO] Worker exiting (pid: 11687)
+[2025-04-11 20:17:38 +0300] [11694] [INFO] Worker exiting (pid: 11694)
+[2025-04-11 20:17:38 +0300] [11695] [INFO] Worker exiting (pid: 11695)
+[2025-04-11 20:17:38 +0300] [11696] [INFO] Worker exiting (pid: 11696)
+[2025-04-11 20:17:38 +0300] [11733] [INFO] Worker exiting (pid: 11733)
+[2025-04-11 20:17:39 +0300] [11680] [INFO] Shutting down: Master
+[2025-04-11 20:18:18 +0300] [11894] [INFO] Starting gunicorn 23.0.0
+[2025-04-11 20:18:18 +0300] [11894] [INFO] Listening at: http://0.0.0.0:8000 (11894)
+[2025-04-11 20:18:18 +0300] [11894] [INFO] Using worker: gthread
+[2025-04-11 20:18:18 +0300] [11896] [INFO] Booting worker with pid: 11896
+[2025-04-11 20:18:18 +0300] [11897] [INFO] Booting worker with pid: 11897
+[2025-04-11 20:18:18 +0300] [11898] [INFO] Booting worker with pid: 11898
+[2025-04-11 20:18:18 +0300] [11899] [INFO] Booting worker with pid: 11899
+[2025-04-11 20:18:18 +0300] [11900] [INFO] Booting worker with pid: 11900
+[2025-04-11 20:18:18 +0300] [11901] [INFO] Booting worker with pid: 11901
+[2025-04-11 20:18:19 +0300] [11902] [INFO] Booting worker with pid: 11902
+[2025-04-11 20:18:19 +0300] [11903] [INFO] Booting worker with pid: 11903
+[2025-04-11 20:18:19 +0300] [11904] [INFO] Booting worker with pid: 11904
+[2025-04-11 20:18:19 +0300] [11924] [INFO] Booting worker with pid: 11924
+[2025-04-11 20:18:19 +0300] [11925] [INFO] Booting worker with pid: 11925
+[2025-04-11 20:18:19 +0300] [11926] [INFO] Booting worker with pid: 11926
+[2025-04-11 20:18:19 +0300] [11927] [INFO] Booting worker with pid: 11927
+[2025-04-11 20:18:19 +0300] [11928] [INFO] Booting worker with pid: 11928
+[2025-04-11 20:18:19 +0300] [11929] [INFO] Booting worker with pid: 11929
+[2025-04-11 20:18:19 +0300] [11930] [INFO] Booting worker with pid: 11930
+[2025-04-11 20:18:19 +0300] [11931] [INFO] Booting worker with pid: 11931
+[2025-04-11 20:18:19 +0300] [11932] [INFO] Booting worker with pid: 11932
+[2025-04-11 20:18:19 +0300] [11933] [INFO] Booting worker with pid: 11933
+[2025-04-11 20:18:19 +0300] [11934] [INFO] Booting worker with pid: 11934
+[2025-04-11 20:18:19 +0300] [11935] [INFO] Booting worker with pid: 11935
+[2025-04-11 20:18:19 +0300] [11936] [INFO] Booting worker with pid: 11936
+[2025-04-11 20:18:20 +0300] [11937] [INFO] Booting worker with pid: 11937
+[2025-04-11 20:18:20 +0300] [11947] [INFO] Booting worker with pid: 11947
+[2025-04-11 20:18:20 +0300] [11948] [INFO] Booting worker with pid: 11948
+[2025-04-11 20:18:25 +0300] [11894] [INFO] Handling signal: int
+[2025-04-11 20:18:25 +0300] [11902] [INFO] Worker exiting (pid: 11902)
+[2025-04-11 20:18:25 +0300] [11936] [INFO] Worker exiting (pid: 11936)
+[2025-04-11 20:18:25 +0300] [11929] [INFO] Worker exiting (pid: 11929)
+[2025-04-11 20:18:25 +0300] [11904] [INFO] Worker exiting (pid: 11904)
+[2025-04-11 20:18:25 +0300] [11926] [INFO] Worker exiting (pid: 11926)
+[2025-04-11 20:18:25 +0300] [11933] [INFO] Worker exiting (pid: 11933)
+[2025-04-11 20:18:25 +0300] [11897] [INFO] Worker exiting (pid: 11897)
+[2025-04-11 20:18:25 +0300] [11899] [INFO] Worker exiting (pid: 11899)
+[2025-04-11 20:18:25 +0300] [11898] [INFO] Worker exiting (pid: 11898)
+[2025-04-11 20:18:25 +0300] [11901] [INFO] Worker exiting (pid: 11901)
+[2025-04-11 20:18:25 +0300] [11927] [INFO] Worker exiting (pid: 11927)
+[2025-04-11 20:18:25 +0300] [11900] [INFO] Worker exiting (pid: 11900)
+[2025-04-11 20:18:25 +0300] [11947] [INFO] Worker exiting (pid: 11947)
+[2025-04-11 20:18:25 +0300] [11924] [INFO] Worker exiting (pid: 11924)
+[2025-04-11 20:18:25 +0300] [11930] [INFO] Worker exiting (pid: 11930)
+[2025-04-11 20:18:25 +0300] [11932] [INFO] Worker exiting (pid: 11932)
+[2025-04-11 20:18:25 +0300] [11948] [INFO] Worker exiting (pid: 11948)
+[2025-04-11 20:18:25 +0300] [11937] [INFO] Worker exiting (pid: 11937)
+[2025-04-11 20:18:25 +0300] [11931] [INFO] Worker exiting (pid: 11931)
+[2025-04-11 20:18:25 +0300] [11928] [INFO] Worker exiting (pid: 11928)
+[2025-04-11 20:18:25 +0300] [11896] [INFO] Worker exiting (pid: 11896)
+[2025-04-11 20:18:25 +0300] [11935] [INFO] Worker exiting (pid: 11935)
+[2025-04-11 20:18:25 +0300] [11925] [INFO] Worker exiting (pid: 11925)
+[2025-04-11 20:18:25 +0300] [11903] [INFO] Worker exiting (pid: 11903)
+[2025-04-11 20:18:25 +0300] [11934] [INFO] Worker exiting (pid: 11934)
+[2025-04-11 20:18:26 +0300] [11894] [INFO] Shutting down: Master
+[2025-04-11 20:18:42 +0300] [12079] [INFO] Starting gunicorn 23.0.0
+[2025-04-11 20:18:42 +0300] [12079] [INFO] Listening at: http://0.0.0.0:8000 (12079)
+[2025-04-11 20:18:42 +0300] [12079] [INFO] Using worker: gthread
+[2025-04-11 20:18:42 +0300] [12080] [INFO] Booting worker with pid: 12080
+[2025-04-11 20:18:42 +0300] [12081] [INFO] Booting worker with pid: 12081
+[2025-04-11 20:18:42 +0300] [12082] [INFO] Booting worker with pid: 12082
+[2025-04-11 20:18:42 +0300] [12083] [INFO] Booting worker with pid: 12083
+[2025-04-11 20:18:42 +0300] [12084] [INFO] Booting worker with pid: 12084
+[2025-04-11 20:18:42 +0300] [12085] [INFO] Booting worker with pid: 12085
+[2025-04-11 20:18:42 +0300] [12086] [INFO] Booting worker with pid: 12086
+[2025-04-11 20:18:43 +0300] [12087] [INFO] Booting worker with pid: 12087
+[2025-04-11 20:18:43 +0300] [12088] [INFO] Booting worker with pid: 12088
+[2025-04-11 20:18:43 +0300] [12089] [INFO] Booting worker with pid: 12089
+[2025-04-11 20:18:43 +0300] [12090] [INFO] Booting worker with pid: 12090
+[2025-04-11 20:18:43 +0300] [12091] [INFO] Booting worker with pid: 12091
+[2025-04-11 20:18:43 +0300] [12092] [INFO] Booting worker with pid: 12092
+[2025-04-11 20:18:43 +0300] [12093] [INFO] Booting worker with pid: 12093
+[2025-04-11 20:18:43 +0300] [12094] [INFO] Booting worker with pid: 12094
+[2025-04-11 20:18:43 +0300] [12095] [INFO] Booting worker with pid: 12095
+[2025-04-11 20:18:43 +0300] [12096] [INFO] Booting worker with pid: 12096
+[2025-04-11 20:18:43 +0300] [12124] [INFO] Booting worker with pid: 12124
+[2025-04-11 20:18:43 +0300] [12125] [INFO] Booting worker with pid: 12125
+[2025-04-11 20:18:43 +0300] [12126] [INFO] Booting worker with pid: 12126
+[2025-04-11 20:18:43 +0300] [12127] [INFO] Booting worker with pid: 12127
+[2025-04-11 20:18:43 +0300] [12128] [INFO] Booting worker with pid: 12128
+[2025-04-11 20:18:43 +0300] [12129] [INFO] Booting worker with pid: 12129
+[2025-04-11 20:18:43 +0300] [12130] [INFO] Booting worker with pid: 12130
+[2025-04-11 20:18:44 +0300] [12131] [INFO] Booting worker with pid: 12131
+[2025-04-11 20:22:26 +0300] [12079] [INFO] Handling signal: int
+[2025-04-11 20:22:26 +0300] [12080] [INFO] Worker exiting (pid: 12080)
+[2025-04-11 20:22:26 +0300] [12081] [INFO] Worker exiting (pid: 12081)
+[2025-04-11 20:22:26 +0300] [12082] [INFO] Worker exiting (pid: 12082)
+[2025-04-11 20:22:26 +0300] [12129] [INFO] Worker exiting (pid: 12129)
+[2025-04-11 20:22:26 +0300] [12096] [INFO] Worker exiting (pid: 12096)
+[2025-04-11 20:22:26 +0300] [12090] [INFO] Worker exiting (pid: 12090)
+[2025-04-11 20:22:26 +0300] [12092] [INFO] Worker exiting (pid: 12092)
+[2025-04-11 20:22:26 +0300] [12085] [INFO] Worker exiting (pid: 12085)
+[2025-04-11 20:22:26 +0300] [12095] [INFO] Worker exiting (pid: 12095)
+[2025-04-11 20:22:26 +0300] [12084] [INFO] Worker exiting (pid: 12084)
+[2025-04-11 20:22:26 +0300] [12125] [INFO] Worker exiting (pid: 12125)
+[2025-04-11 20:22:26 +0300] [12091] [INFO] Worker exiting (pid: 12091)
+[2025-04-11 20:22:26 +0300] [12088] [INFO] Worker exiting (pid: 12088)
+[2025-04-11 20:22:26 +0300] [12124] [INFO] Worker exiting (pid: 12124)
+[2025-04-11 20:22:26 +0300] [12131] [INFO] Worker exiting (pid: 12131)
+[2025-04-11 20:22:26 +0300] [12130] [INFO] Worker exiting (pid: 12130)
+[2025-04-11 20:22:26 +0300] [12128] [INFO] Worker exiting (pid: 12128)
+[2025-04-11 20:22:26 +0300] [12093] [INFO] Worker exiting (pid: 12093)
+[2025-04-11 20:22:26 +0300] [12094] [INFO] Worker exiting (pid: 12094)
+[2025-04-11 20:22:26 +0300] [12086] [INFO] Worker exiting (pid: 12086)
+[2025-04-11 20:22:26 +0300] [12089] [INFO] Worker exiting (pid: 12089)
+[2025-04-11 20:22:26 +0300] [12127] [INFO] Worker exiting (pid: 12127)
+[2025-04-11 20:22:26 +0300] [12126] [INFO] Worker exiting (pid: 12126)
+[2025-04-11 20:22:26 +0300] [12087] [INFO] Worker exiting (pid: 12087)
+[2025-04-11 20:22:26 +0300] [12083] [INFO] Worker exiting (pid: 12083)
+[2025-04-11 20:22:27 +0300] [12079] [INFO] Shutting down: Master

@@ -1,0 +1,14 @@
+https://github.com/startbootstrap/startbootstrap-bare/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-blog-home/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-blog-post/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-business-frontpage/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-full-width-pics/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-heroic-features/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-modern-business/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-sb-admin/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-scrolling-nav/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-shop-homepage/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-shop-item/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-simple-sidebar/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-small-business/archive/gh-pages.zip
+https://github.com/startbootstrap/startbootstrap-the-big-picture/archive/gh-pages.zip
