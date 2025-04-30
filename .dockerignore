@@ -1,7 +1,17 @@
 # Folders
+
 __pycache__
+logs/
+.git/
+.vscode/
+.idea/
+.venv/
+
 
 # Files
-pyc
+
+*.py[cod]
+*.log
+.env
 index_backup.html
 
