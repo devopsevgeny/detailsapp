@@ -8,6 +8,7 @@ ipython = "*"
 inquirerpy = "*"
 requests = "*"
 gunicorn = "*"
+flask = "*"
 
 [dev-packages]
 
