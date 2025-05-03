@@ -17,10 +17,13 @@ max_requests = 1000
 max_requests_jitter = 50
 
 # Logging
-accesslog = "logs/gunicorn_access.log"
-errorlog = "logs/gunicorn_error.log"
-loglevel = "info"
-debug=True
+# accesslog = "logs/gunicorn_access.log"
+# errorlog = "logs/gunicorn_error.log"
+accesslog = "-"
+errorlog = "-"
+# loglevel = "info"
+
+
 
 # Daemonize the Gunicorn process (not recommended with systemd or Docker)
 # daemon = True  # ← uncomment only if not using systemd/docker
@@ -34,7 +37,7 @@ keepalive = 5
 preload_app = True
 
 # PID file (optional, for process monitoring)
-pidfile = "gunicorn.pid"
+# pidfile = "gunicorn.pid"
 
 # Set environment variables if needed
 raw_env = [
