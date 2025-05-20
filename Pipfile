@@ -9,6 +9,7 @@ inquirerpy = "*"
 requests = "*"
 gunicorn = "*"
 flask = "*"
+docker = "*"
 
 [dev-packages]
 
